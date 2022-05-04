@@ -1,0 +1,3 @@
+# inventory
+
+Simple inventory tracker
